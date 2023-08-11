@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <title>Embibe Virtual World</title>
+
+    <script src="server.py"></script>
+    <script src="/Lib/BabylonJS_Script/Hand.min.js"></script>
+    <script src="/Lib/BabylonJS_Script/Babylon.js"></script>
+    <script src="/Lib/BabylonJS_Script/babylonjs.loaders.min.js"></script>
+    <script src="/Lib/TypeScript/babylon.gui.module.d.ts"></script>
+    <script src="/Lib/BabylonJS_Script/babylon.gui.min.js" defer></script>
+
+    
+    <script src="VirtualLab.js" defer></script>
+
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        html, body{
+            width: auto;
+            height: auto;
+            scroll-behavior: smooth;
+            overflow: auto;
+            margin: 0;
+            padding: 0;
+        }
+
+        #renderCanvas05{
+            width: 100%;
+            height: 100%;
+            touch-action: none;
+            border: 3px solid white;
+            border-radius: 10px;
+            
+        }
+
+        
+      </style>
+
+    
+
+</head>
+<body>
+    <div class="Container">
+        <div class="HeadContainer">
+            <div class="Logo">
+
+                
+
+            </div>
+
+            <div class="TittleContainer">
+
+                <div class="ImgContainer">
+
+                <div class="Img01">
+
+                    <img src="./Images/Logo/a female student is studying.png">
+
+                </div>
+
+                <div class="Img02">
+
+                    <img src="./Images/Logo/vr virtual reality.png">
+                    
+                </div>
+
+                <div class="Img03">
+
+                    <img src="./Images/Logo/young people wearing vr headsets.png">
+                    
+                </div>
+
+                </div>
+
+                <div class="Tittle">
+
+                    <h1>Welcome to Virtual World</h1>
+                    
+                </div>
+
+                
+            </div>
+
+            <div class="UserName">
+
+                <form action="action_page.php" method="post">
+                
+              
+                    <div class="FormContainer">
+                      <label for="uname"><b>Username</b></label>
+                      <input type="text" placeholder="Enter Username" name="uname" required>
+                  
+                      <label for="psw"><b>Password</b></label>
+                      <input type="password" placeholder="Enter Password" name="psw" required>
+                  
+                      <button type="submit">Login</button>
+                      
+                    </div>
+                  
+                    
+                  </form>
+                
+            </div>
+
+        </div>
+
+        <div class="BottonContainer">
+
+            <div class="Botton01">
+            <button><a href="index.html">Solar System</a></button>
+            </div>
+    
+            <div class="Botton02">
+                <button><a href="UnderWater.html">Under the Ocean</a></button> 
+            </div>
+    
+            <div class="Botton03">
+                <button><a href="Rocket.html">Rocket</a></button>
+            </div>
+    
+            <div class="Botton04">
+                <button><a href="VirtualLab.html">Virtual lab</a></button>
+            </div>
+
+        </div>
+
+        <div class="BodyContainer">
+
+            <div class="CanvasContainer">
+
+                <canvas id="renderCanvas05"></canvas>
+
+            </div>
+
+           
+
+        </div>
+    </div>
+    
+</body>
+
+</html>

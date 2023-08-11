@@ -1,0 +1,1301 @@
+Exporter version: 3.3.0, Blender version: 3.3.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  H:\Babylonjs_R&D\Blender test\Solar_System\stars\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  instancer1_star_partical_id_3
+		processing begun of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_8
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_12
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_17
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_23
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_27
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_35
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_39
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_43
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_48
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_53
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_57
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_63
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_67
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_73
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_81
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_85
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_89
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_94
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_99
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_105
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_110
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_114
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_118
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_123
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_128
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_132
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_137
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_141
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_146
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_150
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_155
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_162
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_165
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_169
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_174
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_178
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_182
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_186
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_191
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_195
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_199
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_203
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_208
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_212
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_216
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_221
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_225
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_229
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_235
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_239
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_243
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_247
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_251
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_256
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_262
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_266
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_272
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_276
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_282
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_288
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_292
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_296
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_302
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_306
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_310
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_317
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_321
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_326
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_333
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_338
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_343
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_348
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_352
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_356
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_360
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_364
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_370
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_375
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_380
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_384
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_388
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_392
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_396
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_401
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_406
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_410
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_414
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_419
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_424
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_430
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_435
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_439
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_444
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_448
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_452
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_456
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_461
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_465
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_469
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_475
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_481
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_485
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_489
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_493
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_498
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instancer1_star_partical_id_502
+		processing begun of material:  Star
+		registered as also a user of material:  Star
+		Custom split normals with tangents being used
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  208
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+========= Writing of JSON file started =========
+	writing mesh:  instancer1_star_partical_id_3
+	writing mesh:  instancer1_star_partical_id_8
+	writing mesh:  instancer1_star_partical_id_12
+	writing mesh:  instancer1_star_partical_id_17
+	writing mesh:  instancer1_star_partical_id_23
+	writing mesh:  instancer1_star_partical_id_27
+	writing mesh:  instancer1_star_partical_id_35
+	writing mesh:  instancer1_star_partical_id_39
+	writing mesh:  instancer1_star_partical_id_43
+	writing mesh:  instancer1_star_partical_id_48
+	writing mesh:  instancer1_star_partical_id_53
+	writing mesh:  instancer1_star_partical_id_57
+	writing mesh:  instancer1_star_partical_id_63
+	writing mesh:  instancer1_star_partical_id_67
+	writing mesh:  instancer1_star_partical_id_73
+	writing mesh:  instancer1_star_partical_id_81
+	writing mesh:  instancer1_star_partical_id_85
+	writing mesh:  instancer1_star_partical_id_89
+	writing mesh:  instancer1_star_partical_id_94
+	writing mesh:  instancer1_star_partical_id_99
+	writing mesh:  instancer1_star_partical_id_105
+	writing mesh:  instancer1_star_partical_id_110
+	writing mesh:  instancer1_star_partical_id_114
+	writing mesh:  instancer1_star_partical_id_118
+	writing mesh:  instancer1_star_partical_id_123
+	writing mesh:  instancer1_star_partical_id_128
+	writing mesh:  instancer1_star_partical_id_132
+	writing mesh:  instancer1_star_partical_id_137
+	writing mesh:  instancer1_star_partical_id_141
+	writing mesh:  instancer1_star_partical_id_146
+	writing mesh:  instancer1_star_partical_id_150
+	writing mesh:  instancer1_star_partical_id_155
+	writing mesh:  instancer1_star_partical_id_162
+	writing mesh:  instancer1_star_partical_id_165
+	writing mesh:  instancer1_star_partical_id_169
+	writing mesh:  instancer1_star_partical_id_174
+	writing mesh:  instancer1_star_partical_id_178
+	writing mesh:  instancer1_star_partical_id_182
+	writing mesh:  instancer1_star_partical_id_186
+	writing mesh:  instancer1_star_partical_id_191
+	writing mesh:  instancer1_star_partical_id_195
+	writing mesh:  instancer1_star_partical_id_199
+	writing mesh:  instancer1_star_partical_id_203
+	writing mesh:  instancer1_star_partical_id_208
+	writing mesh:  instancer1_star_partical_id_212
+	writing mesh:  instancer1_star_partical_id_216
+	writing mesh:  instancer1_star_partical_id_221
+	writing mesh:  instancer1_star_partical_id_225
+	writing mesh:  instancer1_star_partical_id_229
+	writing mesh:  instancer1_star_partical_id_235
+	writing mesh:  instancer1_star_partical_id_239
+	writing mesh:  instancer1_star_partical_id_243
+	writing mesh:  instancer1_star_partical_id_247
+	writing mesh:  instancer1_star_partical_id_251
+	writing mesh:  instancer1_star_partical_id_256
+	writing mesh:  instancer1_star_partical_id_262
+	writing mesh:  instancer1_star_partical_id_266
+	writing mesh:  instancer1_star_partical_id_272
+	writing mesh:  instancer1_star_partical_id_276
+	writing mesh:  instancer1_star_partical_id_282
+	writing mesh:  instancer1_star_partical_id_288
+	writing mesh:  instancer1_star_partical_id_292
+	writing mesh:  instancer1_star_partical_id_296
+	writing mesh:  instancer1_star_partical_id_302
+	writing mesh:  instancer1_star_partical_id_306
+	writing mesh:  instancer1_star_partical_id_310
+	writing mesh:  instancer1_star_partical_id_317
+	writing mesh:  instancer1_star_partical_id_321
+	writing mesh:  instancer1_star_partical_id_326
+	writing mesh:  instancer1_star_partical_id_333
+	writing mesh:  instancer1_star_partical_id_338
+	writing mesh:  instancer1_star_partical_id_343
+	writing mesh:  instancer1_star_partical_id_348
+	writing mesh:  instancer1_star_partical_id_352
+	writing mesh:  instancer1_star_partical_id_356
+	writing mesh:  instancer1_star_partical_id_360
+	writing mesh:  instancer1_star_partical_id_364
+	writing mesh:  instancer1_star_partical_id_370
+	writing mesh:  instancer1_star_partical_id_375
+	writing mesh:  instancer1_star_partical_id_380
+	writing mesh:  instancer1_star_partical_id_384
+	writing mesh:  instancer1_star_partical_id_388
+	writing mesh:  instancer1_star_partical_id_392
+	writing mesh:  instancer1_star_partical_id_396
+	writing mesh:  instancer1_star_partical_id_401
+	writing mesh:  instancer1_star_partical_id_406
+	writing mesh:  instancer1_star_partical_id_410
+	writing mesh:  instancer1_star_partical_id_414
+	writing mesh:  instancer1_star_partical_id_419
+	writing mesh:  instancer1_star_partical_id_424
+	writing mesh:  instancer1_star_partical_id_430
+	writing mesh:  instancer1_star_partical_id_435
+	writing mesh:  instancer1_star_partical_id_439
+	writing mesh:  instancer1_star_partical_id_444
+	writing mesh:  instancer1_star_partical_id_448
+	writing mesh:  instancer1_star_partical_id_452
+	writing mesh:  instancer1_star_partical_id_456
+	writing mesh:  instancer1_star_partical_id_461
+	writing mesh:  instancer1_star_partical_id_465
+	writing mesh:  instancer1_star_partical_id_469
+	writing mesh:  instancer1_star_partical_id_475
+	writing mesh:  instancer1_star_partical_id_481
+	writing mesh:  instancer1_star_partical_id_485
+	writing mesh:  instancer1_star_partical_id_489
+	writing mesh:  instancer1_star_partical_id_493
+	writing mesh:  instancer1_star_partical_id_498
+	writing mesh:  instancer1_star_partical_id_502
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.8506 secs

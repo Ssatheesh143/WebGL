@@ -1,0 +1,401 @@
+.Container{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#14005a, #024ff3);
+    color : white ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align : center;
+    overflow-x: auto;
+    overflow-y: auto;
+    
+}
+
+@container (max-width:1200px){
+    .HeadContainer{
+        flex : 100%;
+        max-width: 600px;
+    }
+    .BottonContainer{
+        flex : 100%;
+        max-width: 600px; 
+    }
+
+
+    .BodyContainer{
+        flex : 100%;
+        max-width: 600px;  
+    }
+
+    .Logo{
+        flex : 100%;
+        max-width: 100px;   
+    }
+
+    .TittleContainer{
+        flex : 100%;
+        max-width: 600px;   
+    }
+
+    .Tittle{
+        flex : 100%;
+        max-width: 600px;   
+    }
+
+    .BodyContainer{
+        flex : 100%;
+        max-width: 600px;   
+    }
+
+    .CanvasContainer{
+        flex : 100%;
+        max-width: 600px;   
+    }
+
+    #renderCanvas02{
+        flex : 100%;
+        max-width: 600px;   
+    }
+
+    .TopicContainer{
+        flex : 100%;
+        max-width: 600px;   
+    }
+
+
+    .FooterContainer{
+        flex : 100%;
+        max-width: 600px;   
+    }
+}
+
+.Logo{
+    flex : 100%;
+    max-width: 400px; 
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 2px;
+    margin: 10px;
+    flex: 1; 
+}
+
+.Logo img{
+    width: 150px;
+    height: auto;
+    justify-content: center;
+    align-items:center;
+    
+}
+
+.Img01 img{
+    width: 100%;
+    height:auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.Img02 img{
+    width: 100%;
+    height:auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.Img03 img{
+    width: 100%;
+    height:auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.HeadContainer{
+    width : 100%;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+
+.ImgContainer{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.TittleContainer{
+    width : 100%;
+    justify-content:center;
+    flex: 3;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 3px;
+    margin: 10px; 
+}
+
+.UserName{
+    width : 100%;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex: 1;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px; 
+}
+
+.Tittle{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px; 
+    
+}
+
+.FormContainer{
+    width : 100%;
+    height: auto;
+    justify-content:center;
+    padding:auto;
+    margin:auto;
+    align-items: center;
+    flex-direction: column;
+}
+
+.FormContainer button{
+    width : 50%;
+    height: auto;
+    justify-content:center;
+    padding:auto;
+    margin: 10px;
+    align-items: center;
+    background-color:gray;
+    color:white;
+    border: none;
+    border-radius: 10px;
+}
+
+.FormContainer input{
+    width : 100%;
+    height: auto;
+    justify-content:center;
+    padding:auto;
+    margin: auto;
+    align-items: center;
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    border: none;
+    border-radius: 10px;
+}
+
+.BottonContainer{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    padding: 03px;
+    margin: 0px;
+}
+
+.Botton01{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex: 1;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 0px;
+    margin: 03px;
+    background-color: #02e3f3; 
+}
+
+.Botton01 button{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex: 1;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: #02e3f3; 
+}
+
+.Botton02{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex: 1;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 0px;
+    margin: 03px;
+    background-color: #02e3f3; 
+}
+
+.Botton02 button{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex: 1;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: #02e3f3; 
+}
+
+.Botton03{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex: 1;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 0px;
+    margin: 03px;
+    background-color: #02e3f3; 
+}
+
+.Botton03 button{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex: 1;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: #02e3f3; 
+}
+
+.Botton04{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex: 1;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 0px;
+    margin: 03px;
+    background-color: #02e3f3; 
+}
+
+.Botton04 button{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex: 1;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: #02e3f3; 
+}
+
+.BodyContainer{
+    width : 100%;
+    height: auto;
+    display :flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0px;
+}
+
+.CanvasContainer{
+    width : 100%;
+    height: 100%;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex: 4;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0px;
+}
+
+.TopicContainer{
+    width : 100%;
+    height: auto;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex: 1;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0px;
+}
+
+.Topic{
+    width : 100%;
+    height: auto;
+    justify-content:center;
+    flex-wrap: wrap;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.Content{
+    width : 100%;
+    height: 50%;
+    justify-content:center;
+    flex-wrap: wrap;
+    border: 2px solid #024ff3;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 0px;
+    overflow:scroll;
+}
+
+
+
+
+    
+
+
+
+
+
+
